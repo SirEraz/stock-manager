@@ -2,7 +2,7 @@
 A simply Python program that "manages" shares of stock, differentiating between common stock, preferred stock, and treasury stock. Sort of.
 
 ## The program:
-The program is 'stock-manager.py'.
+The program is `stock-manager.py`.
 
 ## Features:
 - You can view the amount of shares issued and outstanding by category of common or preferred stock
